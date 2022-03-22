@@ -1,13 +1,16 @@
-###### Gaskevich Olexsandr
+# Gaskevich Olexsandr
 Age:            20 years
+***
 Citizenship:    Ukraine
+---
 Residence:      Rivne city
 
-### Professional directions:
+## Professional directions:
 Soundman, musician, teacher, programmer
 
 ## Contact information:
 Phone:          097 691-91-18
+===
 El. Mail:       sashagaskevic@gmail.com
 
 ## Work experience:

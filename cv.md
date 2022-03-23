@@ -19,13 +19,15 @@ El. Mail:       sashagaskevic@gmail.com
 From 08.2021 to 09.2021 (1.5 months)
 
 Palace of Culture Rivne (Рівненський Палац культури)
-===
+
+
 **Soundman**
 
 From 10.2021 until now
 
 Palace of Children and Youth Rivne (Рівненський Палац дітей та молоді)
-===
+
+
 Practice in announcing events (3 years 6 months)
 
 Bandura teaching practice (6 months)
